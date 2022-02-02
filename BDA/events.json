@@ -1,0 +1,43 @@
+
+[
+  {
+    "title": "New Year Eve",
+    "start": "31.12.2021, 23:59 Uhr",
+    "end": "01.01.2022, 00:00 Uhr"
+  },
+  {
+    "title": "Fußball Training",
+    "start": "09.01.2022, 16:00 Uhr",
+    "end": "09.01.2022, 19:30 Uhr"
+  },
+  {
+    "title": "Für KI Lernen",
+    "start": "15.01.2022, 12:00 Uhr",
+    "end": "15.01.2022, 15:00 Uhr"
+  },
+  {
+    "title": "Essen gehen",
+    "start": "22.01.2022, 19:00 Uhr",
+    "end": "22.01.2022, 22:00 Uhr"
+  },
+  {
+    "title": "Gym",
+    "start": "06.02.2022, 08:00 Uhr",
+    "end": "06.02.2022, 11:00 Uhr"
+  },
+  {
+    "title": "XY Abholen",
+    "start": "25.02.2022, 10:00 Uhr",
+    "end": "25.02.2022, 11:30 Uhr"
+  },
+  {
+    "title": "KI Prüfung",
+    "start": "23.03.2022, 14:00 Uhr",
+    "end": "23.03.2022, 15:00 Uhr"
+  },
+  {
+    "title": "PM Prüfung",
+    "start": "02.02.2022, 14:00 Uhr",
+    "end": "23.03.2022, 15:00 Uhr"
+  }
+]
